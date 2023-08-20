@@ -1,0 +1,20 @@
+.app {
+	background: url('../assets/galaxy-bg.jpg') no-repeat center center fixed !important;
+	background-size: cover !important;
+}
+
+.transparent-bg {
+	background-color: rgba(20, 20, 20, 0.3);
+}
+
+.white-font-color {
+	color: #cdcdcd !important;
+}
+
+.marginals {
+	background-color: rgba(24, 6, 74, 0.4) !important;
+}
+
+.filterD {
+	background-color: rgba(0, 0, 0, 0);
+}
